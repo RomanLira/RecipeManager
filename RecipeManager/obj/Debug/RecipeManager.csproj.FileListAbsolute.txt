@@ -1,0 +1,70 @@
+C:\Users\lirca\Desktop\3 курс\Практика\RecipeManager\RecipeManager\bin\Debug\RecipeManager.exe.config
+C:\Users\lirca\Desktop\3 курс\Практика\RecipeManager\RecipeManager\bin\Debug\RecipeManager.exe
+C:\Users\lirca\Desktop\3 курс\Практика\RecipeManager\RecipeManager\bin\Debug\RecipeManager.pdb
+C:\Users\lirca\Desktop\3 курс\Практика\RecipeManager\RecipeManager\bin\Debug\Recipes.dll
+C:\Users\lirca\Desktop\3 курс\Практика\RecipeManager\RecipeManager\bin\Debug\Recipes.pdb
+C:\Users\lirca\Desktop\3 курс\Практика\RecipeManager\RecipeManager\obj\Debug\RecipeManager.csprojAssemblyReference.cache
+C:\Users\lirca\Desktop\3 курс\Практика\RecipeManager\RecipeManager\obj\Debug\RecipeManager.Form1.resources
+C:\Users\lirca\Desktop\3 курс\Практика\RecipeManager\RecipeManager\obj\Debug\RecipeManager.Properties.Resources.resources
+C:\Users\lirca\Desktop\3 курс\Практика\RecipeManager\RecipeManager\obj\Debug\RecipeManager.csproj.GenerateResource.cache
+C:\Users\lirca\Desktop\3 курс\Практика\RecipeManager\RecipeManager\obj\Debug\RecipeManager.csproj.CoreCompileInputs.cache
+C:\Users\lirca\Desktop\3 курс\Практика\RecipeManager\RecipeManager\obj\Debug\RecipeManager.csproj.CopyComplete
+C:\Users\lirca\Desktop\3 курс\Практика\RecipeManager\RecipeManager\obj\Debug\RecipeManager.exe
+C:\Users\lirca\Desktop\3 курс\Практика\RecipeManager\RecipeManager\obj\Debug\RecipeManager.pdb
+C:\Users\lirca\OneDrive\Рабочий стол\3 курс\Практика\RecipeManager\RecipeManager\bin\Debug\RecipeManager.exe.config
+C:\Users\lirca\OneDrive\Рабочий стол\3 курс\Практика\RecipeManager\RecipeManager\bin\Debug\RecipeManager.exe
+C:\Users\lirca\OneDrive\Рабочий стол\3 курс\Практика\RecipeManager\RecipeManager\bin\Debug\RecipeManager.pdb
+C:\Users\lirca\OneDrive\Рабочий стол\3 курс\Практика\RecipeManager\RecipeManager\bin\Debug\Recipes.dll
+C:\Users\lirca\OneDrive\Рабочий стол\3 курс\Практика\RecipeManager\RecipeManager\bin\Debug\Recipes.pdb
+C:\Users\lirca\OneDrive\Рабочий стол\3 курс\Практика\RecipeManager\RecipeManager\obj\Debug\RecipeManager.csprojAssemblyReference.cache
+C:\Users\lirca\OneDrive\Рабочий стол\3 курс\Практика\RecipeManager\RecipeManager\obj\Debug\RecipeManager.Form1.resources
+C:\Users\lirca\OneDrive\Рабочий стол\3 курс\Практика\RecipeManager\RecipeManager\obj\Debug\RecipeManager.Properties.Resources.resources
+C:\Users\lirca\OneDrive\Рабочий стол\3 курс\Практика\RecipeManager\RecipeManager\obj\Debug\RecipeManager.csproj.GenerateResource.cache
+C:\Users\lirca\OneDrive\Рабочий стол\3 курс\Практика\RecipeManager\RecipeManager\obj\Debug\RecipeManager.csproj.CoreCompileInputs.cache
+C:\Users\lirca\OneDrive\Рабочий стол\3 курс\Практика\RecipeManager\RecipeManager\obj\Debug\RecipeManager.csproj.CopyComplete
+C:\Users\lirca\OneDrive\Рабочий стол\3 курс\Практика\RecipeManager\RecipeManager\obj\Debug\RecipeManager.exe
+C:\Users\lirca\OneDrive\Рабочий стол\3 курс\Практика\RecipeManager\RecipeManager\obj\Debug\RecipeManager.pdb
+G:\PATRIOT\3 курс\Практика\RecipeManager\RecipeManager\bin\Debug\RecipeManager.exe.config
+G:\PATRIOT\3 курс\Практика\RecipeManager\RecipeManager\bin\Debug\RecipeManager.exe
+G:\PATRIOT\3 курс\Практика\RecipeManager\RecipeManager\bin\Debug\RecipeManager.pdb
+G:\PATRIOT\3 курс\Практика\RecipeManager\RecipeManager\bin\Debug\Recipes.dll
+G:\PATRIOT\3 курс\Практика\RecipeManager\RecipeManager\bin\Debug\Recipes.pdb
+G:\PATRIOT\3 курс\Практика\RecipeManager\RecipeManager\obj\Debug\RecipeManager.csprojAssemblyReference.cache
+G:\PATRIOT\3 курс\Практика\RecipeManager\RecipeManager\obj\Debug\RecipeManager.MainForm.resources
+G:\PATRIOT\3 курс\Практика\RecipeManager\RecipeManager\obj\Debug\RecipeManager.Properties.Resources.resources
+G:\PATRIOT\3 курс\Практика\RecipeManager\RecipeManager\obj\Debug\RecipeManager.RecipeCreationForm.resources
+G:\PATRIOT\3 курс\Практика\RecipeManager\RecipeManager\obj\Debug\RecipeManager.csproj.GenerateResource.cache
+G:\PATRIOT\3 курс\Практика\RecipeManager\RecipeManager\obj\Debug\RecipeManager.csproj.CoreCompileInputs.cache
+G:\PATRIOT\3 курс\Практика\RecipeManager\RecipeManager\obj\Debug\RecipeManager.csproj.CopyComplete
+G:\PATRIOT\3 курс\Практика\RecipeManager\RecipeManager\obj\Debug\RecipeManager.exe
+G:\PATRIOT\3 курс\Практика\RecipeManager\RecipeManager\obj\Debug\RecipeManager.pdb
+G:\PATRIOT\3 курс\Практика\RecipeManager\RecipeManager\obj\Debug\RecipeManager.CreationIngredientForm.resources
+C:\Users\lirca\Desktop\Флэшка\3 курс\Практика\RecipeManager\RecipeManager\obj\Debug\RecipeManager.csprojAssemblyReference.cache
+C:\Users\lirca\Desktop\Флэшка\3 курс\Практика\RecipeManager\RecipeManager\obj\Debug\RecipeManager.CreationIngredientForm.resources
+C:\Users\lirca\Desktop\Флэшка\3 курс\Практика\RecipeManager\RecipeManager\obj\Debug\RecipeManager.MainForm.resources
+C:\Users\lirca\Desktop\Флэшка\3 курс\Практика\RecipeManager\RecipeManager\obj\Debug\RecipeManager.Properties.Resources.resources
+C:\Users\lirca\Desktop\Флэшка\3 курс\Практика\RecipeManager\RecipeManager\obj\Debug\RecipeManager.RecipeCreationForm.resources
+C:\Users\lirca\Desktop\Флэшка\3 курс\Практика\RecipeManager\RecipeManager\obj\Debug\RecipeManager.csproj.GenerateResource.cache
+C:\Users\lirca\Desktop\Флэшка\3 курс\Практика\RecipeManager\RecipeManager\obj\Debug\RecipeManager.csproj.CoreCompileInputs.cache
+C:\Users\lirca\Desktop\Флэшка\3 курс\Практика\RecipeManager\RecipeManager\obj\Debug\RecipeManager.exe
+C:\Users\lirca\Desktop\Флэшка\3 курс\Практика\RecipeManager\RecipeManager\obj\Debug\RecipeManager.pdb
+C:\Users\lirca\Desktop\Флэшка\3 курс\Практика\RecipeManager\RecipeManager\bin\Debug\RecipeManager.exe.config
+C:\Users\lirca\Desktop\Флэшка\3 курс\Практика\RecipeManager\RecipeManager\bin\Debug\RecipeManager.exe
+C:\Users\lirca\Desktop\Флэшка\3 курс\Практика\RecipeManager\RecipeManager\bin\Debug\RecipeManager.pdb
+C:\Users\lirca\Desktop\Флэшка\3 курс\Практика\RecipeManager\RecipeManager\bin\Debug\Recipes.dll
+C:\Users\lirca\Desktop\Флэшка\3 курс\Практика\RecipeManager\RecipeManager\bin\Debug\Recipes.pdb
+C:\Users\lirca\Desktop\Флэшка\3 курс\Практика\RecipeManager\RecipeManager\obj\Debug\RecipeManager.csproj.CopyComplete
+C:\Users\lirca\Desktop\Флэшка\3 курс\Практика\RecipeManager\RecipeManager\obj\Debug\RecipeManager.RecipeDataBaseForm.resources
+C:\Users\user\Desktop\Флэшка\Учеба\3 курс\2 сем\Практика\RecipeManager\RecipeManager\bin\Debug\RecipeManager.exe.config
+C:\Users\user\Desktop\Флэшка\Учеба\3 курс\2 сем\Практика\RecipeManager\RecipeManager\bin\Debug\RecipeManager.exe
+C:\Users\user\Desktop\Флэшка\Учеба\3 курс\2 сем\Практика\RecipeManager\RecipeManager\bin\Debug\RecipeManager.pdb
+C:\Users\user\Desktop\Флэшка\Учеба\3 курс\2 сем\Практика\RecipeManager\RecipeManager\bin\Debug\Recipes.dll
+C:\Users\user\Desktop\Флэшка\Учеба\3 курс\2 сем\Практика\RecipeManager\RecipeManager\bin\Debug\Recipes.pdb
+C:\Users\user\Desktop\Флэшка\Учеба\3 курс\2 сем\Практика\RecipeManager\RecipeManager\obj\Debug\RecipeManager.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Флэшка\Учеба\3 курс\2 сем\Практика\RecipeManager\RecipeManager\obj\Debug\RecipeManager.MainForm.resources
+C:\Users\user\Desktop\Флэшка\Учеба\3 курс\2 сем\Практика\RecipeManager\RecipeManager\obj\Debug\RecipeManager.Properties.Resources.resources
+C:\Users\user\Desktop\Флэшка\Учеба\3 курс\2 сем\Практика\RecipeManager\RecipeManager\obj\Debug\RecipeManager.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Флэшка\Учеба\3 курс\2 сем\Практика\RecipeManager\RecipeManager\obj\Debug\RecipeManager.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Флэшка\Учеба\3 курс\2 сем\Практика\RecipeManager\RecipeManager\obj\Debug\RecipeManager.csproj.CopyComplete
+C:\Users\user\Desktop\Флэшка\Учеба\3 курс\2 сем\Практика\RecipeManager\RecipeManager\obj\Debug\RecipeManager.exe
+C:\Users\user\Desktop\Флэшка\Учеба\3 курс\2 сем\Практика\RecipeManager\RecipeManager\obj\Debug\RecipeManager.pdb

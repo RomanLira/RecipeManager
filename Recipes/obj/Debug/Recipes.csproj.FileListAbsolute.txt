@@ -1,0 +1,30 @@
+C:\Users\lirca\Desktop\3 курс\Практика\RecipeManager\Recipes\bin\Debug\Recipes.dll
+C:\Users\lirca\Desktop\3 курс\Практика\RecipeManager\Recipes\bin\Debug\Recipes.pdb
+C:\Users\lirca\Desktop\3 курс\Практика\RecipeManager\Recipes\obj\Debug\Recipes.csprojAssemblyReference.cache
+C:\Users\lirca\Desktop\3 курс\Практика\RecipeManager\Recipes\obj\Debug\Recipes.csproj.CoreCompileInputs.cache
+C:\Users\lirca\Desktop\3 курс\Практика\RecipeManager\Recipes\obj\Debug\Recipes.dll
+C:\Users\lirca\Desktop\3 курс\Практика\RecipeManager\Recipes\obj\Debug\Recipes.pdb
+C:\Users\lirca\OneDrive\Рабочий стол\3 курс\Практика\RecipeManager\Recipes\bin\Debug\Recipes.dll
+C:\Users\lirca\OneDrive\Рабочий стол\3 курс\Практика\RecipeManager\Recipes\bin\Debug\Recipes.pdb
+C:\Users\lirca\OneDrive\Рабочий стол\3 курс\Практика\RecipeManager\Recipes\obj\Debug\Recipes.csprojAssemblyReference.cache
+C:\Users\lirca\OneDrive\Рабочий стол\3 курс\Практика\RecipeManager\Recipes\obj\Debug\Recipes.csproj.CoreCompileInputs.cache
+C:\Users\lirca\OneDrive\Рабочий стол\3 курс\Практика\RecipeManager\Recipes\obj\Debug\Recipes.dll
+C:\Users\lirca\OneDrive\Рабочий стол\3 курс\Практика\RecipeManager\Recipes\obj\Debug\Recipes.pdb
+G:\PATRIOT\3 курс\Практика\RecipeManager\Recipes\obj\Debug\Recipes.csprojAssemblyReference.cache
+G:\PATRIOT\3 курс\Практика\RecipeManager\Recipes\obj\Debug\Recipes.csproj.CoreCompileInputs.cache
+G:\PATRIOT\3 курс\Практика\RecipeManager\Recipes\obj\Debug\Recipes.dll
+G:\PATRIOT\3 курс\Практика\RecipeManager\Recipes\obj\Debug\Recipes.pdb
+G:\PATRIOT\3 курс\Практика\RecipeManager\Recipes\bin\Debug\Recipes.dll
+G:\PATRIOT\3 курс\Практика\RecipeManager\Recipes\bin\Debug\Recipes.pdb
+C:\Users\lirca\Desktop\Флэшка\3 курс\Практика\RecipeManager\Recipes\bin\Debug\Recipes.dll
+C:\Users\lirca\Desktop\Флэшка\3 курс\Практика\RecipeManager\Recipes\bin\Debug\Recipes.pdb
+C:\Users\lirca\Desktop\Флэшка\3 курс\Практика\RecipeManager\Recipes\obj\Debug\Recipes.csprojAssemblyReference.cache
+C:\Users\lirca\Desktop\Флэшка\3 курс\Практика\RecipeManager\Recipes\obj\Debug\Recipes.csproj.CoreCompileInputs.cache
+C:\Users\lirca\Desktop\Флэшка\3 курс\Практика\RecipeManager\Recipes\obj\Debug\Recipes.dll
+C:\Users\lirca\Desktop\Флэшка\3 курс\Практика\RecipeManager\Recipes\obj\Debug\Recipes.pdb
+C:\Users\user\Desktop\Флэшка\Учеба\3 курс\2 сем\Практика\RecipeManager\Recipes\bin\Debug\Recipes.dll
+C:\Users\user\Desktop\Флэшка\Учеба\3 курс\2 сем\Практика\RecipeManager\Recipes\bin\Debug\Recipes.pdb
+C:\Users\user\Desktop\Флэшка\Учеба\3 курс\2 сем\Практика\RecipeManager\Recipes\obj\Debug\Recipes.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Флэшка\Учеба\3 курс\2 сем\Практика\RecipeManager\Recipes\obj\Debug\Recipes.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Флэшка\Учеба\3 курс\2 сем\Практика\RecipeManager\Recipes\obj\Debug\Recipes.dll
+C:\Users\user\Desktop\Флэшка\Учеба\3 курс\2 сем\Практика\RecipeManager\Recipes\obj\Debug\Recipes.pdb
