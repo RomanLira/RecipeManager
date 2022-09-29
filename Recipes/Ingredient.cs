@@ -25,12 +25,6 @@ namespace Recipes
             Name = name;
             Count = count;
             Measure = measure;
-            List<string> OneIngredient = new List<string>
-            {
-                Name,
-                Convert.ToString(Count),
-                Measure
-            };
         }
 
         //метод вывода ингредиента на экран
